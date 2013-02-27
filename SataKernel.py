@@ -1,8 +1,6 @@
 #!/usr/bin/python2
 # -*- coding: utf-8 -*-
 
-MACRO_TEST  = "./test_macro.sat"
-SCRIPT_FILE = "/home/karl/Carpetas compartidas/RW/Guard service/fork GS estable/Guard Service Fork 4_44.dat"
 
 """Command summary: pag. 119, 7.18
 TIPS:
@@ -17,7 +15,6 @@ TODO:
 -Investigar acerca de comando 7.14.14: DS TT
 """
 
-import pdb
 import DiccionarioDefiniciones
 
 DCONFIGURACION_ALARMA={'0 Alarm Channel':'', '1 Alarm Enable':False, '2 Latch Alarm':False, \

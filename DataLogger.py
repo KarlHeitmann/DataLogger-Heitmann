@@ -32,8 +32,8 @@ SLEEP_FLUSH=2
 
 TIMER_PERIODIC=3600
 
-SCRIPT_FILE = "/home/karl/Carpetas compartidas/RW/Guard service/fork GS estable/Guard Service Fork 4_44.dat"
-#SCRIPT_FILE="/home/karl/GuardService/SATScript/GuardService.dat"
+SCRIPT_FILE = "~/Carpetas compartidas/RW/Guard service/fork GS estable/Guard Service Fork 4_44.dat"
+#SCRIPT_FILE="~/GuardService/SATScript/GuardService.dat"
 
 LOG_SCRIPT_FILE = "./log_script_file"
 
